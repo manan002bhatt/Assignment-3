@@ -151,8 +151,7 @@ jupyter notebook Global_Terrorism_EDA.ipynb
 
 ## 👤 Author
 
-**[Your Name]**  
-[Your Email] | [Your LinkedIn URL]
+**Manan Bhatt**   
 
 ---
 
